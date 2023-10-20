@@ -39,12 +39,17 @@
 ### :hammer_and_wrench:  Languages and Tools: 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title = "C++" width = "40" height = "40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" width = "40" height = "40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title = "HTML" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title = "CSS" width = "40" height = "40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "Figma" width = "40" height = " />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/> 
+  
+  
   
 </div>
 
