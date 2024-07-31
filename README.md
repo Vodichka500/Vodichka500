@@ -1,62 +1,47 @@
-<div id"headler" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTMwMDc1N2YzZjExNjI2OTRlNmFkZjllMjM4YjlmNmRjMDcxZDc2YiZjdD1n/tsWUHlOZzq554BmeMF/giphy.gif" width="500" />
- </div>
- 
- <div id= "badges" align="center">
-  <a href = "https://www.linkedin.com/in/uladzislau-kamisarau-127b77271/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt=LinkedIn Badge" />
-  </a>
-   <a href = "https://instagram.com/vlad_vodichka?igshid=ZDdkNTZiNTM=">
-    <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge" alt=Instagram Badge" />
-   </a>
-   <a href = "https://open.spotify.com/artist/2UT4tHBMiEsH1bXukMbn18">
-    <img src="https://img.shields.io/badge/Spotify-blue?logo=spotify&logoColor=white&style=for-the-badge" alt=Spotyfy Badge" />
-   </a>
-  </div>
-  
-  
-  <div id= "badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vodichka500&style=flat-square&color=blue" alt=""/>
-   </div>
-   
-   
- ---
- 
- 
- ### About me:
- :wave: Hi!
- 
- => My name is Vlad.
- 
- => I'm a student from Poland.
- 
- =>I learn to program on various programming languages and in various fields of IT.
- 
-   
----
-
-
-### :hammer_and_wrench:  Languages and Tools: 
-
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title = "C++" width = "40" height = "40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" width = "40" height = "40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title = "HTML" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title = "CSS" width = "40" height = "40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "Figma" width = "40" height = " />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/> 
-  
-  
-  
+![Frame 49](https://github.com/user-attachments/assets/130930c1-8c82-4cc9-af48-cd2934cf8b1e)
+### ʜɪ, ɪ'ᴍ ᴜʟᴀᴅᴢɪꜱʟᴀᴜ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+### ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹​, ​🇫​​🇺​​🇱​​🇱​-​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇼​​🇪​​🇧​-​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​
+![](https://komarev.com/ghpvc/?username=Vodichka500&color=blueviolet)
+<div align=right>
+  <h3><u>ᴄᴏɴᴛᴀᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</u></h3>
+  <a href=""https://www.linkedin.com/in/uladzislau-kamisarau/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""https://www.linkedin.com/in/uladzislau-kamisarau/><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
+  <a href=""https://www.linkedin.com/in/uladzislau-kamisarau/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href=""https://www.linkedin.com/in/uladzislau-kamisarau/><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+    
+### ᴇᴅᴜᴄᴀᴛɪᴏɴ:
+* ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ꜱᴄɪᴇɴᴄᴇ
+  * ʟᴜʙʟɪɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ
+  * ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ 
+  * 2022 - 2026
 
----
-### My Stats 	:muscle:
+### <u>ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ<u>
+<!-- MARKDOWN ICONS FOR ALL-->
+<!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
+|ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ|🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​|ᴛᴏᴏʟꜱ|
+|---------------|--------|-----|
+|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
+|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vodichka500&theme=highcontrast&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&mode=weekly)](https://git.io/streak-stats)
 
+### ɢɪᴛ ᴀᴄᴛɪᴠᴇɴᴇꜱꜱ
 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vodichka500&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vodichka500&&theme=radical&show_icons=true)](https://git.io/streak-stats" /> </td>
+  </tr>
+</table>
+
+<p align="center">
   
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
