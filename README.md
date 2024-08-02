@@ -1,6 +1,3 @@
-
-<!--, ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ, ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏɴᴛᴀᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ, ᴇᴅᴜᴄᴀᴛɪᴏɴ: ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ꜱᴄɪᴇɴᴄᴇ: ʟᴜʙʟɪɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ, 2022-2026 -->
-
 ![Frame 49](https://github.com/user-attachments/assets/130930c1-8c82-4cc9-af48-cd2934cf8b1e)
 ### ʜɪ, ɪ'ᴍ ᴜʟᴀᴅᴢɪꜱʟᴀᴜ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ### ​ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ, ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ-ᴅᴇᴠᴇʟᴏᴘᴇʀ 
@@ -9,9 +6,9 @@
 
 <div align=right>
   <h3><u>ᴄᴏɴᴛᴀᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</u></h3>
-  <a href="https://www.linkedin.com/in/uladzislau-kamisarau/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/uladzislau-kamisarau/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
-  <a href="u.kamisarau@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/uladzislau-kamisarau"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/vlad_vodichka"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
+  <a href="mailto:u.kamisarau@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.discord.com/Vodichka500/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
