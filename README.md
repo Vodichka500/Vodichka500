@@ -45,7 +45,8 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vodichka500&layout=compact&theme=radical&custom_title=Languages"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vodichka500&&theme=radical&show_icons=true)](https://git.io/streak-stats" /> </td>
+    <td valign="top"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vodichka500&theme=radical&show_icons=true" alt="GitHub Streak" /></a></td>
+
   </tr>
 </table>
 
